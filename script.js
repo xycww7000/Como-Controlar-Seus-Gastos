@@ -98,7 +98,7 @@ const configuracaoQuiz = {
     textoBotao: "💰 QUERO APRENDER A CONTROLAR MEUS GASTOS",
 
     // COLE O LINK DO CHECKOUT ENTRE AS ASPAS:
-    linkCheckout: ""
+    linkCheckout: "https://pay.cakto.com.br/vu78j43_1101597"
   }
 };
 
